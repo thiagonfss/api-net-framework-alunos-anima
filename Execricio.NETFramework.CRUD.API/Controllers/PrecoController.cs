@@ -7,7 +7,7 @@ using System.Web.Http;
 
 namespace Execricio.NETFramework.CRUD.API.Controllers
 {
-    public class ValuesController : ApiController
+    public class PrecoController : ApiController
     {
         // GET api/values
         public IEnumerable<string> Get()
